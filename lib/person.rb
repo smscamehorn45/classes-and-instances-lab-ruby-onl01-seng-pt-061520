@@ -1,8 +1,8 @@
-class Dog 
+class Person
 end 
 
 
-class Dog
+class Person  
 end
 
 adele_goldberg = Person.new
