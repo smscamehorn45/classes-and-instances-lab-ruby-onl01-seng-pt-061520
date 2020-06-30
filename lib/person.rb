@@ -1,23 +1,28 @@
-class Person
+class Dog 
 end 
 
 
-class Person
+class Dog
 end
 
-adele_goldberg = person.new
-adele_goldberg
+fido = Dog.new
+fido 
   
 
 
-class Person
-  adele_goldberg = person.new
+class Dog
 end
 
- adele_goldberg= Person.new
-alan_kay = Person.new
-alan_kay
+fido = Dog.new
+snoopy = Dog.new
+snoopy
 
 
 
+lassie = Dog.new
+lassie
 
+ 
+
+snoopy == fido 
+# => false
