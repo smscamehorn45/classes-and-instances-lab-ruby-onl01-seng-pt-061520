@@ -5,24 +5,15 @@ end
 class Dog
 end
 
-fido = Dog.new
-fido 
+adele_goldberg = Person.new
+adele_goldberg 
   
 
 
-class Dog
+class Person
 end
 
-fido = Dog.new
-snoopy = Dog.new
-snoopy
+adele_goldberg = Person.new
+alan_kay = Person.new
+alan_kay
 
-
-
-lassie = Dog.new
-lassie
-
- 
-
-snoopy == fido 
-# => false
