@@ -23,7 +23,7 @@ snoopy
 lassie = Dog.new
 lassie
 
- are all born from Dog.
+ 
 
 snoopy == fido 
 # => false
