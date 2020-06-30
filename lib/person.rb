@@ -11,6 +11,7 @@ adele_goldberg
 
 
 class Person
+  adele_goldberg = person.new
 end
 
  adele_goldberg= Person.new
